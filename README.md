@@ -2,7 +2,7 @@
 
 # Summary
 
-Website deployed and be viewed here:
+Website deployed and be viewed here: https://rajeshnair1984.github.io/Plotly-Challenge/StarterCode/index.html
 
 ![Bacteria by filterforge.com](Images/bacteria.jpg)
 
